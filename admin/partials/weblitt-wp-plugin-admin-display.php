@@ -6,7 +6,7 @@
  * This file is used to markup the admin-facing aspects of the plugin.
  *
  * @link       https://github.com/zzOzz
- * @since      1.0.0
+ * @since      1.0.1
  *
  * @package    Weblitt_Wp_Plugin
  * @subpackage Weblitt_Wp_Plugin/admin/partials
